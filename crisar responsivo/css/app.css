@@ -1,0 +1,32 @@
+.menug {
+    width: 100%;
+    padding: 0rem;
+    background: #994709;
+    margin: 0 auto;
+    top: 0;
+}
+
+.menui{
+	background-color: #994709!important;
+}
+
+.menut{
+	background: #994709;
+	color: #ffe7b6;
+}
+
+.footerA{
+	background-color: #0a0a0a!important;
+}
+
+.icones{
+    text-align: center;
+}
+ul li a{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    text-decoration: none;
+    color: #ffe6b4!important;
+    font-weight: normal;
+    line-height: 1.5;
+}

@@ -1,0 +1,254 @@
+
+article{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 2%;
+}
+
+/*Responsividade*/
+div h1, h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px!important;
+    color: #7F110E;
+    text-align: center;
+}
+div h2{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px!important;
+    color: #7F110E;
+    text-align: center;   
+}
+a{
+    position: center;
+}
+div h3{
+    font-size: 17px;
+}
+.link-servicos{
+    padding-bottom: 0%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    color: #7F110E;
+}
+.imagem-cursos{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;  
+}
+.imagem-sobre-nos{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+    height: 20%;  
+}
+/*Corpo do site*/
+body{
+    background-color: #ffe7b6!important;
+
+}
+/*Fim do corpo do site*/
+
+/*Index*/
+.slide1{
+    border: 5px solid #ffe7b6;
+}
+/*Fim do Index*/
+
+/*Serviços*/
+.imagem-servicos{
+    margin-top: 0%;
+}
+/*Fim serviços*/
+
+/*Midias Sociais*/
+.identacao-midias-sociais{
+   margin-top: 5%;
+   margin-left: 0px;
+   text-align: center;
+}
+/*Fim Midias Sociais*/
+
+/*Infraestrutura*/
+.imgE{
+   left: 10%;
+}
+.margemI{
+   padding-top: 1%;
+}
+.margemIg{
+   padding-top: 1%;
+}
+.margemIt{
+   padding-top: 1%;
+}
+/*Fim da Infraestrutura*/
+
+/*Encontre-nos*/
+iframe {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 350px;
+}
+.alinhamento-cor-icones{
+    color: #7F110E;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 5px solid #ffe7b6;
+}
+
+/*Fim do Encontre-nos*/
+
+/*Nossa Equipe*/
+.equipe-text{
+    font-size: 14px;
+    line-height: 18px;
+    color: #000;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace
+}
+.equipe-border{
+    border: 5px solid #7f110e;
+    box-shadow: 1px 2px 3px #7f110e;
+}
+/*Fim do Nossa Equipe*/
+
+/*Rodapé*/
+.marketing-site-footer {
+  background: #994709;
+  color: #ffe7b6;
+  padding: 2rem 0 0;
+}
+
+.marketing-site-footer .marketing-site-footer-menu-social a {
+  color: #ffe7b6;
+}
+
+.marketing-site-footer .column-block {
+  margin-bottom: 30px;
+}
+
+.marketing-site-footer > .row {
+  margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .marketing-site-footer .columns {
+    margin-bottom: 2rem;
+  }
+}
+
+.marketing-site-footer-name {
+  color: #ffe7b6;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.marketing-site-footer-title {
+  color: #ffe7b6;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+.marketing-site-footer-block {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.marketing-site-footer-block .fa {
+  font-size: 2rem;
+  color: #ffe7b6;
+}
+
+.marketing-site-footer-block p {
+  margin-left: 1rem;
+  line-height: 1.125rem;
+}
+
+.marketing-site-footer-bottom {
+  background: #020304;
+  padding: 1rem 0;
+}
+
+.marketing-site-footer-bottom p,
+.marketing-site-footer-bottom .menu {
+  margin-bottom: 0;
+}
+
+.marketing-site-footer-bottom .marketing-site-footer-bottom-links {
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.marketing-site-footer-bottom .marketing-site-footer-bottom-links a {
+  color: #8aa0ae;
+}
+
+@media screen and (max-width: 63.9375em) {
+  .marketing-site-footer-bottom .marketing-site-footer-bottom-links {
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+@media screen and (max-width: 63.9375em) {
+  .marketing-site-footer-bottom {
+    text-align: center;
+  }
+}
+
+
+/*Fim do Rodapé*/
+
+/*Fim da responsividade*/
+
+/*.tamanhoI{
+    height: 800px;
+    width: 500px;
+}
+
+.color1{
+    background-color: #412815;
+    color:#fff;
+}
+
+.color2{
+    background-color: #412815;
+    color:#fff;
+}
+
+.color3{
+    background-color: #412815;
+    color:#fff;
+}
+
+.color4{
+    background-color: blue;
+    color:#fff;
+}
+.teste-equipe-imagem{
+    width: 60%;
+    height: 60%;
+}
+.trabalhos-e-cursos-texto{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace
+    color: #7F110E;
+    font-size: 150%;
+}
+.alinhamento-cor-icones-trabalhos{
+    color: #7F110E;
+    padding-left: 35%;
+}
